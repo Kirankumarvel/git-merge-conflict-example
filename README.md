@@ -88,4 +88,3 @@ This project is open-source and available under the **MIT License**.
 See the [LICENSE](LICENSE) file for more details.
 ```
 
-This `README.md` provides a clear, concise overview and instructions for using the repository. Let me know if you’d like further customization!
